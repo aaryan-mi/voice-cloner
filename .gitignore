@@ -1,0 +1,38 @@
+# Python virtual environments & bytecode
+.venv/
+env/
+venv/
+__pycache__/
+*.py[cod]
+
+# Audio files & model artifacts
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+outputs/
+test_output/
+*.safetensors
+*.bin
+
+# Personal scripts & documents
+*.pdf
+script_extracted.txt
+voice_profile.txt
+prompt_optimizer.html
+
+# Legacy project files
+cleaner_engine.py
+audio_cleaner_cli.py
+test_cleaner.py
+test_server.py
+test_save.wav
+test_verified.wav
+app.py
+run.bat
+static/
+
+# System files
+.DS_Store
+Thumbs.db
