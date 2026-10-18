@@ -99,4 +99,4 @@ This project is open-source under the [MIT License](LICENSE).
 
 **Author:** Aaryan Atul Mishra  
 **GitHub:** [@aaryan-mi](https://github.com/aaryan-mi)  
-**Email:** m.aaryan4094@gmail.com
+**Email:** mi.aaryan4094@gmail.com
